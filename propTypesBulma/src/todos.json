@@ -1,0 +1,5 @@
+[
+    {"task": "Drink Coffee", "completed": true},
+    {"task": "Feed plants", "completed": false},
+    {"task": "Water cat", "completed": false}
+]
